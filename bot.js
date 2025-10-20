@@ -4,7 +4,7 @@ const {
   StringSelectMenuBuilder, EmbedBuilder
 } = require('discord.js');
 
-const TOKEN = ''; // Mettre le token du bot ici
+const TOKEN = ''; // Put ur token here 
 const DELAY = 5000;
 
 const client = new Client({
@@ -323,5 +323,6 @@ client.on('interactionCreate', async interaction => {
     await interaction.reply({ content: msg, flags: 64 });
   }
 });
+
 
 client.login(TOKEN);
