@@ -1,10 +1,11 @@
 - Dmall Bot powered by d_1114
 
-Faites "npm install" ensuite attendez
-Ligne 7 - const TOKEN = 'ICI'; // Mettre le token du bot ici - 
+Run "npm install" then wait
 
-Commandes : 
-+invite : donne le lien d'invitation du bot
-+dmall : config et lance le dmall 
+- Line 7 - const TOKEN = 'HERE'; // Put the bot's token here -
 
-Serveur support : https://discord.gg/KKMzsbJHJr
+Commands:
+- +invite: Gives the bot's invitation link
+- +dmall: Configure and launch dmall
+
+Support server: https://discord.gg/KKMzsbJHJr
